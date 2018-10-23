@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd3b6f1e-3e71-47ff-9286-8b47bf96b060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sighting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EndangeredAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EndangeredAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RegisterAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RegisterAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sighting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/index.vtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/layout.vtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view-sightings.vtl" beforeDir="false" />
-    </list>
+    <list default="true" id="bd3b6f1e-3e71-47ff-9286-8b47bf96b060" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -60,7 +42,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="53" />
+          <entry key="css" value="54" />
           <entry key="dummy" value="21" />
           <entry key="gradle" value="8" />
           <entry key="java" value="67" />
@@ -81,7 +63,7 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="53" />
+          <entry key="CSS" value="54" />
           <entry key="JAVA" value="67" />
           <entry key="PLAIN_TEXT" value="86" />
         </counts>
@@ -109,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/public/app.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              <caret line="1" column="108" selection-start-line="1" selection-start-column="108" selection-end-line="1" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -682,7 +664,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540285286530" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540285834069" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -907,7 +889,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/public/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <caret line="1" column="108" selection-start-line="1" selection-start-column="108" selection-end-line="1" selection-end-column="108" />
         </state>
       </provider>
     </entry>
