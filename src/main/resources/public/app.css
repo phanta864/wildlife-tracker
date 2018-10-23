@@ -5,3 +5,6 @@ body{
     background-size: cover;
     -o-background-size: cover;
 }
+tbody{
+    background-color: rgba(213, 219, 219, 0.7);
+}
