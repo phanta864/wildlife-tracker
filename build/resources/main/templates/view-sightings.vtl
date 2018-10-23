@@ -1,0 +1,40 @@
+<br>
+<br>
+<table class="table table-dark">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Ranger's Name</th>
+        <th scope="col">Location</th>
+        <th scope="col">Animal Name</th>
+        <th scope="col">Animal Age</th>
+        <th scope="col">Animal Health</th>
+        <th scope="col">Animal Species</th>
+        <th scope="col">Time of sighting</th>
+    </tr>
+    </thead>
+    <tbody>
+    #foreach ($sighting in $sightings)
+    <tr>
+        <!--Ranger's Name-->
+        <td>$sighting.getName()</td>
+
+        <!--Location of Sighting-->
+        <td>$sighting.getLocation()</td>
+        <!--Animal's Name-->
+
+        <td>$sighting.getAnimal().getName()</td>
+
+        <!--Animal's Age-->
+        <td>$sighting.getAnimal().getAge()</td>
+
+        <!--Animal's Health-->
+        <td>$sighting.getAnimal().getHealth()</td>
+
+        <!--Animal's Species-->
+        <td>$sighting.getAnimal().getSpecies()</td>
+
+        <td>$sighting.getTimestamp()</td>
+    </tr>
+    #end
+    </tbody>
+</table>

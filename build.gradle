@@ -1,9 +1,12 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
 group 'com.ephantus'
 version '1.0-SNAPSHOT'
+applicationName = "wildlife-tracker"
+mainClassName= "App"
 
 sourceCompatibility = 1.8
 
@@ -13,4 +16,12 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.sql2o', name: 'sql2o', version: '1.5.4'
+    compile group: 'org.postgresql', name: 'postgresql', version: "9.4-1201-jdbc41"
+    compile group: 'com.sparkjava', name:'spark-core', version: '2.5'
+    compile 'com.sparkjava:spark-template-velocity:2.5.5'
+    compile 'com.sparkjava:spark-debug-tools:0.5'
 }
+
+defaultTasks = ['clean']
+task stage(dependsOn: ['clean', 'installApp'])

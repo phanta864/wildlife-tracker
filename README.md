@@ -1,10 +1,10 @@
-# CeaserCipher Java App
+# Wildlife-Tracker Java App
 
 ### By Ephantus Mwangi
 
 ## Description
 
-    In "cryptography", a Caesar cipher is one of the simplest and most widely known encryption techniques, which this Java App ustilises.
+    In "cryptography", a Wildlife-Tracker is one of the simplest and most widely known encryption techniques, which this Java App ustilises.
     It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
     For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in his private correspondence.
 
@@ -16,7 +16,7 @@
    * Deciphering is done  with a right shift of 3 letters.
 
 
- Here's the link to the Github Repo :<https://github.com/phanta864/CeaserCipher/>
+ Here's the link to the Github Repo :<https://github.com/phanta864/Wildlife-Tracker/>
 
 ### Prerequisites
 
